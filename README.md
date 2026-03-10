@@ -1,14 +1,6 @@
 ## 💫 About Me:
 
 Hi 👋 I'm **Nikhil Patil**, a passionate **MERN Stack Developer** and **React Native Developer** who enjoys building modern web and mobile applications.
-
-- 💻 Skilled in **JavaScript, React.js, Node.js, Express.js, MongoDB**
-- 📱 Experienced in **React Native mobile app development**
-- 🔗 Strong experience working with **RESTful APIs**
-- 🛠 Familiar with **Git & GitHub for version control**
-- 📊 Interested in building **scalable full-stack applications**
-- 🚀 Currently improving my skills in **advanced React Native and backend development**
-
 I enjoy solving real-world problems through code and continuously learning new technologies. My goal is to grow as a **full-stack developer** while contributing to impactful and innovative projects..!
 
 ## 🌐 Socials:
