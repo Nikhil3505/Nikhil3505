@@ -1,6 +1,15 @@
-# 💫 About Me:
-Enthusiastic and detail-oriented MERN Stack Developer (Trainee Software Engineer) with a strong foundation in JavaScript, React.js, Node.js, Express.js, and MongoDB. Skilled in developing responsive web applications and integrating RESTful APIs. Familiar with Git/GitHub for version control and committed to writing clean, efficient, and maintainable code. Quick learner with strong problem-solving skills, eager to contribute to real-world projects and grow as a full-stack developer while collaborating in a team-oriented environment.!
+## 💫 About Me:
 
+Hi 👋 I'm **Nikhil Patil**, a passionate **MERN Stack Developer** and **React Native Developer** who enjoys building modern web and mobile applications.
+
+- 💻 Skilled in **JavaScript, React.js, Node.js, Express.js, MongoDB**
+- 📱 Experienced in **React Native mobile app development**
+- 🔗 Strong experience working with **RESTful APIs**
+- 🛠 Familiar with **Git & GitHub for version control**
+- 📊 Interested in building **scalable full-stack applications**
+- 🚀 Currently improving my skills in **advanced React Native and backend development**
+
+I enjoy solving real-world problems through code and continuously learning new technologies. My goal is to grow as a **full-stack developer** while contributing to impactful and innovative projects..!
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/nikhil-s-patil-86a516246/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:patilnikhil3505@gmail.com) 
