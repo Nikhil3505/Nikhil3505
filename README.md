@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hi 👋 I'm Nikhil Patil, a passionate MERN Stack Developer and React Native Developer who enjoys building modern web and mobile applications. I enjoy solving real-world problems through code and continuously learning new technologies. My goal is to grow as a full-stack developer while contributing to impactful and innovative projects..!
+Hi 👋 I'm Nikhil Patil, a passionate Full Stack Developer and React Native Developer who enjoys building modern web and mobile applications. I enjoy solving real-world problems through code and continuously learning new technologies. My goal is to grow as a full-stack developer while contributing to impactful and innovative projects..!
 
 
 ## 🌐 Socials:
