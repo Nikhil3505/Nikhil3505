@@ -132,17 +132,17 @@ Hi! I'm **Nikhil Patil**, a passionate **Full Stack & Mobile App Developer** who
 
 <div align="center">
 
-<a href="https://www.linkedin.com/in/nikhil-s-patil-86a516246/">
+<a href="https://www.linkedin.com/in/nikhil-patil-86a516246/" target="_blank" rel="noopener noreferrer">
   <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
 </a>
-
 <a href="mailto:patilnikhil3505@gmail.com">
   <img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
 </a>
-
 <a href="https://github.com/Nikhil3505">
   <img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
 </a>
+
+</div>
 
 <br/><br/>
 
