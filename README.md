@@ -1,119 +1,104 @@
-<div align="center">
-  <!-- Animated 3D Header with Coder and Floating Cubes -->
-  <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="400" alt="Animated Coder and Cubes" />
-  
-  <br/>
-  
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=30&pause=1000&color=38B2AC&center=true&vCenter=true&width=600&lines=Hi+%F0%9F%91%8B%2C+I'm+Nikhil+Patil;Full+Stack+Developer;React+Native+Developer;Problem+Solver" alt="Typing SVG" />
+ <div align="center">
 
-  <p align="center">
-    <strong>Building modern, scalable web & mobile applications 🚀</strong><br>
-    I enjoy solving real-world problems through code and continuously learning new technologies. My goal is to grow as a full-stack developer while contributing to impactful and innovative projects.
-  </p>
+<a href="https://git.io/typing-svg">
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=2500&pause=700&color=00F5FF&center=true&vCenter=true&width=800&lines=Hi%2C+I'm+Nikhil+Patil+%F0%9F%91%8B;Full+Stack+Developer+%E2%9A%A1;React+Native+Developer+%F0%9F%93%B1;Problem+Solver+%F0%9F%A7%A9" alt="Animated introduction"/>
+</a>
 
-  <!-- Social Links -->
-  <div align="center">
-    <a href="https://linkedin.com/in/nikhil-s-patil-86a516246/" target="_blank">
-      <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-    </a>
-    <a href="mailto:patilnikhil3505@gmail.com">
-      <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
-    </a>
-  </div>
-  
-  <br/>
-  <img src="https://visitcount.itsvg.in/api?id=Nikhil3505&icon=9&color=4" alt="Profile Views" />
-</div>
+<img src="https://capsule-render.vercel.app/api?type=venom&height=180&text=CODE.%20BUILD.%20SOLVE.&fontSize=38&color=0:0F172A,50:312E81,100:06B6D4&fontColor=FFFFFF&animation=fadeIn" width="100%" alt="Developer banner"/>
 
-<br/>
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%" />
+<a href="https://github.com/Nikhil3505">
+<img src="https://komarev.com/ghpvc/?username=Nikhil3505&style=for-the-badge&color=06b6d4&label=PROFILE+VIEWS" alt="Profile views"/>
+</a>
 
-<h2 align="center">💻 Tech Stack & Tools</h2>
-
-<div align="center">
-  
-  **Frontend & Mobile**<br>
-  ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=flat-square&logo=html5&logoColor=white)
-  ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=flat-square&logo=css3&logoColor=white)
-  ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=flat-square&logo=javascript&logoColor=%23F7DF1E)
-  ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=flat-square&logo=typescript&logoColor=white)
-  ![React](https://img.shields.io/badge/react-%2320232a.svg?style=flat-square&logo=react&logoColor=%2361DAFB)
-  ![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=flat-square&logo=react&logoColor=%2361DAFB)
-  ![Next JS](https://img.shields.io/badge/Next-black?style=flat-square&logo=next.js&logoColor=white)
-  ![Angular.js](https://img.shields.io/badge/angular.js-%23E23237.svg?style=flat-square&logo=angularjs&logoColor=white)
-  ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=flat-square&logo=Flutter&logoColor=white)
-  ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=flat-square&logo=tailwind-css&logoColor=white)
-  ![jQuery](https://img.shields.io/badge/jquery-%230769AD.svg?style=flat-square&logo=jquery&logoColor=white)
-
-  <br>**Backend**<br>
-  ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=flat-square&logo=node.js&logoColor=white)
-  ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=flat-square&logo=express&logoColor=%2361DAFB)
-  ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=flat-square&logo=openjdk&logoColor=white)
-  ![Python](https://img.shields.io/badge/python-3670A0?style=flat-square&logo=python&logoColor=ffdd54)
-  ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=flat-square&logo=django&logoColor=white)
-  ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=flat-square&logo=php&logoColor=white)
-  ![Laravel](https://img.shields.io/badge/laravel-%23FF2D20.svg?style=flat-square&logo=laravel&logoColor=white)
-  ![.Net](https://img.shields.io/badge/.NET-5C2D91?style=flat-square&logo=.net&logoColor=white)
-  
-  <br>**Databases**<br>
-  ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=flat-square&logo=mongodb&logoColor=white)
-  ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=flat-square&logo=mysql&logoColor=white)
-  ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=flat-square&logo=postgresql&logoColor=white)
-  ![MicrosoftSQLServer](https://img.shields.io/badge/SQL%20Server-CC2927?style=flat-square&logo=microsoft%20sql%20server&logoColor=white)
-  ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=flat-square&logo=sqlite&logoColor=white)
-  ![Hibernate](https://img.shields.io/badge/Hibernate-59666C?style=flat-square&logo=Hibernate&logoColor=white)
-
-  <br>**Cloud, DevOps & Tools**<br>
-  ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=flat-square&logo=amazon-aws&logoColor=white)
-  ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=flat-square&logo=google-cloud&logoColor=white)
-  ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=flat-square&logo=git&logoColor=white)
-  ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=flat-square&logo=vercel&logoColor=white)
-  ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white)
-  ![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=flat-square&logo=jira&logoColor=white)
-  ![Selenium](https://img.shields.io/badge/-selenium-%43B02A?style=flat-square&logo=selenium&logoColor=white)
-  ![Power Bi](https://img.shields.io/badge/power_bi-F2C811?style=flat-square&logo=powerbi&logoColor=black)
+<a href="https://github.com/Nikhil3505?tab=followers">
+<img src="https://img.shields.io/github/followers/Nikhil3505?style=for-the-badge&color=7c3aed&label=FOLLOWERS" alt="Followers"/>
+</a>
 
 </div>
 
-<br/>
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%" />
+---
 
-<h2 align="center">🧠 Problem Solving & LeetCode</h2>
+## 👨‍💻 About Me
+
+<img align="right" width="270" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" alt="Developer coding animation"/>
+
+Hi! I'm **Nikhil Patil**, a passionate Full Stack and React Native Developer who enjoys building modern web and mobile applications.
+
+* 💻 Full Stack Web Development
+* 📱 React Native Mobile Applications
+* 🧩 Data Structures & Algorithmic Problem Solving
+* ⚡ Building useful, responsive digital experiences
+* 🌱 Always learning and exploring new technologies
+* 🤝 Open to collaboration and exciting projects
+
+*"Build with purpose. Solve with logic. Grow with every commit."*
+
+<br clear="right"/>
+
+## 🛠️ Tech Stack
 
 <div align="center">
-  <!-- CHANGE "Nikhil3505" TO YOUR ACTUAL LEETCODE USERNAME IF IT IS DIFFERENT -->
-  <a href="https://leetcode.com/Nikhil3505/">
-    <img src="https://leetcard.jacoblin.cool/Nikhil3505?theme=tokyonight&font=Syne&ext=activity" alt="LeetCode Stats" />
-  </a>
+
+<img src="https://skillicons.dev/icons?i=java,js,ts,python,php,react,nextjs,nodejs,express,laravel,django,flutter,html,css,tailwind,mysql,mongodb,postgres,aws,gcp,git,github,postman&perline=8" alt="Technology stack"/>
+
 </div>
 
-<br/>
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%" />
-
-<h2 align="center">📊 GitHub Analytics</h2>
+## 🧩 LeetCode & Problem Solving
 
 <div align="center">
-  <table width="100%" border="0">
-    <tr>
-      <td width="50%" align="center">
-        <img src="https://github-readme-stats.vercel.app/api?username=Nikhil3505&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub Stats" width="100%"/>
-      </td>
-      <td width="50%" align="center">
-        <img src="https://nirzak-streak-stats.vercel.app/?user=Nikhil3505&theme=tokyonight&hide_border=true" alt="GitHub Streak" width="100%"/>
-      </td>
-    </tr>
-    <tr>
-      <td width="50%" align="center">
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nikhil3505&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&layout=compact" alt="Top Languages" width="100%"/>
-      </td>
-      <td width="50%" align="center">
-        <img src="https://github-profile-trophy.vercel.app/?username=Nikhil3505&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4" alt="GitHub Trophies" width="100%"/>
-      </td>
-    </tr>
-  </table>
+
+<a href="https://leetcode.com/">
+<img src="https://img.shields.io/badge/LeetCode-Problem%20Solving-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode"/>
+</a>
+
+<br/><br/>
+
+<img src="https://leetcard.jacoblin.cool/YOUR_LEETCODE_USERNAME?theme=dark&font=Fira%20Code&ext=heatmap" width="100%" alt="LeetCode activity heatmap"/>
+
 </div>
 
-<br/>
+## 📊 GitHub Analytics
+
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer" width="100%"/>
+
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=Nikhil3505&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub statistics"/>
+
+<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nikhil3505&layout=compact&theme=tokyonight&hide_border=true" alt="Top languages"/>
+
+<br/><br/>
+
+<img width="75%" src="https://streak-stats.demolab.com?user=Nikhil3505&theme=tokyonight&hide_border=true" alt="GitHub contribution streak"/>
+
+</div>
+
+## 🏆 GitHub Trophies
+
+<div align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=Nikhil3505&theme=algolia&no-frame=true&no-bg=true&column=4" width="100%" alt="GitHub trophies"/>
+
+</div>
+
+## 🌐 Connect With Me
+
+<div align="center">
+
+<a href="https://www.linkedin.com/in/nikhil-s-patil-86a516246/">
+<img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin" alt="LinkedIn"/>
+</a>
+
+<a href="mailto:patilnikhil3505@gmail.com">
+<img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail" alt="Email"/>
+</a>
+
+<a href="https://github.com/Nikhil3505">
+<img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github" alt="GitHub"/>
+</a>
+
+<br/><br/>
+
+**Thanks for visiting! Let's build something amazing. 🚀**
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:06B6D4,50:4F46E5,100:0F172A&height=110&section=footer" width="100%" alt="Footer banner"/>
+
 </div>
