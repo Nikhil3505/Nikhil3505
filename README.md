@@ -144,12 +144,14 @@ Hi! I'm **Nikhil Patil**, a passionate **Full Stack & Mobile App Developer** who
 
 </div>
 
-<br/><br/>
+<div align="center">
 
-                                                    ### 💬 Let's Build Something Amazing!
+## 💬 Let's Build Something Amazing!
 
-                                *Thanks for visiting my profile. Keep coding, keep creating, and keep growing!* ✨
+*Thanks for visiting my profile! Keep coding, keep creating, and keep growing!* ✨
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:06B6D4,50:4F46E5,100:0F172A&height=110&section=footer" width="100%" alt="Footer banner"/>
+<br/>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:06B6D4,50:4F46E5,100:0F172A&height=120&section=footer" width="100%" alt="Footer banner"/>
 
 </div>
