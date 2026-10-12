@@ -1,20 +1,19 @@
 
 <div align="center">
 
-<!-- Animated typing introduction -->
+<!-- ANIMATED INTRO -->
 <a href="https://git.io/typing-svg">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&duration=2500&pause=800&color=00F5FF&center=true&vCenter=true&width=800&lines=Hi%2C+I'm+Nikhil+Patil+%F0%9F%91%8B;Full+Stack+Developer+%E2%9A%A1;React+Native+Developer+%F0%9F%93%B1;Problem+Solver+%F0%9F%A7%A9;Code.+Build.+Innovate.+%F0%9F%9A%80" alt="Animated introduction"/>
 </a>
 
-<!-- Animated banner -->
+<!-- ANIMATED HERO BANNER -->
 <img src="https://capsule-render.vercel.app/api?type=venom&height=180&text=CODE.%20BUILD.%20SOLVE.&fontSize=38&color=0:0F172A,50:312E81,100:06B6D4&fontColor=FFFFFF&animation=fadeIn" width="100%" alt="Developer banner"/>
 
-<!-- Profile badges -->
 <a href="https://github.com/Nikhil3505">
   <img src="https://komarev.com/ghpvc/?username=Nikhil3505&style=for-the-badge&color=06b6d4&label=PROFILE+VIEWS" alt="Profile views"/>
 </a>
 <a href="https://github.com/Nikhil3505?tab=followers">
-  <img src="https://img.shields.io/github/followers/Nikhil3505?style=for-the-badge&color=7c3aed&label=FOLLOWERS" alt="GitHub followers"/>
+  <img src="https://img.shields.io/github/followers/Nikhil3505?style=for-the-badge&color=7c3aed&label=FOLLOWERS" alt="Followers"/>
 </a>
 
 </div>
@@ -23,14 +22,14 @@
 
 ## 👨‍💻 About Me
 
-<img align="right" width="240" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" alt="Coding animation"/>
+<img align="right" width="230" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" alt="Coding animation"/>
 
 Hi! I'm **Nikhil Patil**, a passionate Full Stack Developer and React Native Developer who enjoys building modern web and mobile applications.
 
 - 💻 Full Stack Web Development
 - 📱 React Native Mobile Applications
 - 🧩 Data Structures & Algorithmic Problem Solving
-- ⚡ Building practical, responsive digital experiences
+- ⚡ Building practical digital experiences
 - 🌱 Continuously learning new technologies
 - 🤝 Open to collaboration and innovative projects
 
@@ -46,6 +45,23 @@ Hi! I'm **Nikhil Patil**, a passionate Full Stack Developer and React Native Dev
 
 </div>
 
+---
+
+## 🟩 My GitHub Contributions — 3D Animation
+
+<div align="center">
+
+<!-- Animated contribution snake -->
+<img src="https://raw.githubusercontent.com/Nikhil3505/Nikhil3505/output/github-contribution-grid-snake-dark.svg" width="100%" alt="Animated GitHub contribution grid"/>
+
+<br/>
+
+*Every contribution is another step forward. Keep building! 💚*
+
+</div>
+
+---
+
 ## 🧩 LeetCode | Problem Solving
 
 <div align="center">
@@ -56,10 +72,9 @@ Hi! I'm **Nikhil Patil**, a passionate Full Stack Developer and React Native Dev
 
 <br/><br/>
 
-<!-- Replace YOUR_LEETCODE_USERNAME with your actual username -->
-
+<!-- Replace YOUR_LEETCODE_USERNAME with your actual LeetCode username -->
 <a href="https://leetcode.com/YOUR_LEETCODE_USERNAME/">
-  <img src="https://leetcard.jacoblin.cool/YOUR_LEETCODE_USERNAME?theme=dark&font=Fira%20Code&width=400&height=180&ext=heatmap" width="400" alt="LeetCode statistics and activity heatmap"/>
+  <img src="https://leetcard.jacoblin.cool/YOUR_LEETCODE_USERNAME?theme=dark&font=Fira%20Code&width=360&height=160&ext=heatmap" width="360" alt="LeetCode statistics and heatmap"/>
 </a>
 
 <br/>
@@ -67,6 +82,8 @@ Hi! I'm **Nikhil Patil**, a passionate Full Stack Developer and React Native Dev
 *Think logically. Solve efficiently. Improve consistently.*
 
 </div>
+
+---
 
 ## 📊 GitHub Analytics
 
@@ -82,6 +99,8 @@ Hi! I'm **Nikhil Patil**, a passionate Full Stack Developer and React Native Dev
 
 </div>
 
+---
+
 ## 🏆 GitHub Trophies
 
 <div align="center">
@@ -89,6 +108,8 @@ Hi! I'm **Nikhil Patil**, a passionate Full Stack Developer and React Native Dev
 <img src="https://github-profile-trophy.vercel.app/?username=Nikhil3505&theme=algolia&no-frame=true&no-bg=true&column=4&margin-w=8" width="100%" alt="GitHub trophies"/>
 
 </div>
+
+---
 
 ## 🚀 Featured Projects
 
@@ -100,7 +121,9 @@ Hi! I'm **Nikhil Patil**, a passionate Full Stack Developer and React Native Dev
 
 </div>
 
-<!-- Pin your best projects on your GitHub profile for more visibility. -->
+<!-- Pin your strongest projects on your GitHub profile. -->
+
+---
 
 ## 🌐 Connect With Me
 
