@@ -24,14 +24,17 @@
 
 <img align="right" width="230" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" alt="Coding animation"/>
 
-Hi! I'm **Nikhil Patil**, a passionate Full Stack Developer and React Native Developer who enjoys building modern web and mobile applications.
+Hi! I'm **Nikhil Patil**, a passionate **Full Stack & Mobile App Developer** who enjoys building modern web applications, cross-platform mobile apps, and scalable digital solutions.
 
-- 💻 Full Stack Web Development
-- 📱 React Native Mobile Applications
-- 🧩 Data Structures & Algorithmic Problem Solving
-- ⚡ Building practical digital experiences
-- 🌱 Continuously learning new technologies
-- 🤝 Open to collaboration and innovative projects
+- 💻 Full Stack Web Development with React.js, Next.js, Node.js, Java & Spring Boot
+- 📱 Mobile App Development with React Native & Flutter
+- 🔗 REST API Development & Third-Party Integrations
+- 🗄️ Database Management with MongoDB, MySQL & PostgreSQL
+- 🔥 Firebase Authentication, Push Notifications & Cloud Services
+- 🧩 Data Structures, Algorithms & Problem Solving
+- 🤖 Exploring AI-Powered Applications & Intelligent Automation
+- 🌱 Continuously learning, building, and exploring new technologies
+- 🤝 Open to exciting opportunities, collaborations, and innovative projects
 
 > "Build with purpose. Solve with logic. Grow with every commit."
 
