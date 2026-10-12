@@ -1,10 +1,3 @@
-Here is the complete, final code for your `README.md`. It includes the professional layout, your tech stack, LeetCode stats, and the 3D Contribution Cubes right at the top.
-
-**Important Note:** The 3D green cubes image will show as a broken link until you actually create the `.github/workflows/profile-3d.yml` file and run the GitHub Action I mentioned in the previous step. Once the Action runs, the cubes will magically appear!
-
-Copy and paste this directly into your repo:
-
-```markdown
 <div align="center">
   <!-- Animated 3D Header with Coder and Floating Cubes -->
   <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="400" alt="Animated Coder and Cubes" />
@@ -133,5 +126,3 @@ Copy and paste this directly into your repo:
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer" width="100%"/>
 </div>
-
-```
