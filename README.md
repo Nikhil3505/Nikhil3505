@@ -50,7 +50,7 @@ Hi! I'm **Nikhil Patil**, a passionate **Full Stack & Mobile App Developer** who
 
 ---
 
-## 🟩 My GitHub Contributions — 3D Animation
+## 🟩 My GitHub Contributions — 
 
 <div align="center">
 
